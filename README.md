@@ -1,5 +1,3 @@
 Do not ever use this for data that isn't worthless to you.
-This image disabled fsync. If you do not know what fsync is:
-
-Move along. You are not looking for this
-========================================
+This image stores it's data in /tmp so it __WILL BE DELETED__
+AND __NEVER STORED ON DISK__ !!!
