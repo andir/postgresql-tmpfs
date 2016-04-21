@@ -1,2 +1,2 @@
 FROM postgres
-CMD ["postgres", "-F"]
+ENV PGDATA /tmp/pgdata/data
