@@ -1,2 +1,2 @@
 FROM postgres
-ENV PGDATA /tmp/pgdata/data
+ENV PGDATA /dev/shm/pgdata/data
